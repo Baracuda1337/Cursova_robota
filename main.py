@@ -79,7 +79,7 @@ def hero(): # функцыя яка виводить масив який вив�
 
 
 
-bot = Bot(token='5484944721:AAHn9bWAMxDad0lsH2Mb1mZb2i74jmlP8h0') #токен бота
+bot = Bot(token='********************') #токен бота
 storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
 data_array_T = hero()
